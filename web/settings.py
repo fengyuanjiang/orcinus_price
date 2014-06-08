@@ -4,7 +4,8 @@ __author__ = 'nothi'
 import os
 import sys
 
-workdir = os.path.split( os.path.realpath( sys.argv[0] ))[0]
+#workdir = os.path.split( os.path.realpath( sys.argv[0] ))[0]
+workdir = "/home/windalex/git/orcinus_price/web" 
 template_dir = os.path.join(workdir,"template")
 
 settings = {

@@ -4,5 +4,5 @@
 依赖说明
 =======
 1. tornado
-2. scrapy
-3. python-mysqldb
+1. scrapy
+1. python-mysqldb
